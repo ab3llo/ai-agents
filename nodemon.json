@@ -1,0 +1,8 @@
+{
+    "exec": "ts-node ./src/index.ts",
+    "ext": "ts,tsx,json,yaml",
+    "ignore": [],
+    "env": {
+        "NODE_ENV": "development"
+    }
+}
